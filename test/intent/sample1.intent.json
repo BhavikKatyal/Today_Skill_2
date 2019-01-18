@@ -1,7 +1,7 @@
 {
-"utterance":"this day in history",
+"utterance":"tell me events",
 "intent_type":"RandomEventIntent",
 "intent":{
-"randomEventKeyword":"this day in history"
+"randomEventKeyword":"tell me events"
 }
 }
