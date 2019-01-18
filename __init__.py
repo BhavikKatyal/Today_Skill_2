@@ -37,7 +37,7 @@ LOGGER = getLogger(__name__)
 
 class TodayHistorySkill2(MycroftSkill):
     def __init__(self):
-        super(TodayHistory2, self).__init__(name="TodayHistorySkill2")
+        super(TodayHistorySkill2, self).__init__(name="TodayHistorySkill2")
 
     def initialize(self):
 
